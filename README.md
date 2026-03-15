@@ -19,3 +19,5 @@ Build:
 
 Notes:
 - This is only the permutation primitive, not SHA3 domain padding/squeezing by itself.
+
+// @Cryptis - Cryptix Network
